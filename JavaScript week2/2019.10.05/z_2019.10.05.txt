@@ -1,0 +1,4 @@
+1. º¹½À
+2. split
+3. substring
+4. number
