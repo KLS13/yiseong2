@@ -1,0 +1,6 @@
+﻿1. slice
+2. sort reverse slice 예제
+3. concat
+4. shift unshift
+5. pop
+6. 배열 조회하기 
