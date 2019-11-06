@@ -1,3 +1,8 @@
 # yiseong2
 
-2019년 09월 28일 자바스크립트( ES6 ) 시작.
+JavaScript(ES6) & node.js
+
+2019년 09월 28일 ~
+
+1. JavaScript(ES6)
+2. node.js
