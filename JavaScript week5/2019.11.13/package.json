@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_practice_01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "ejs": "^2.7.1",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.5.0",
+    "moment": "^2.24.0",
+    "pug": "^2.0.4",
+    "request": "^2.88.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
