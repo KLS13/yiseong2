@@ -14,7 +14,7 @@
     "fs": "0.0.1-security",
     "iconv-lite": "^0.5.0",
     "moment": "^2.24.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "request": "^2.88.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.2.1"
